@@ -3,3 +3,4 @@ PhD, 2nd year
 Python
 R
 Yellow
+Dell
